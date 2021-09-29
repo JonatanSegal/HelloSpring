@@ -12,6 +12,7 @@ To use HelloSpring, follow these steps:
 
 1. Open and run HelloSpringApplication.java
 2. Checkout 1 of the 5 endpoints:
+  3. 
 ⋅⋅⋅[Hello World](http://localhost:8080/first-mapping)
 ⋅⋅* [second-mapping](http://localhost:8080/second-mapping)
 ⋅⋅* [Default mapping](http://localhost:8080/)
