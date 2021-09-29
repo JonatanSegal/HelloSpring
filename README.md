@@ -1,22 +1,22 @@
-#HelloSpring
+# HelloSpring
 First Spring boot project
 
-##Prerequisites
+## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 * You have installed a Java supported program that can run Java programs
 * You have installed installed a web browser
 
-##Using HelloSpring
+## Using HelloSpring
 To use HelloSpring, follow these steps:
 
 * Open and run HelloSpringApplication.java
 * Checkout 1 of the 5 endpoints
-..* [Hello World](http://localhost:8080/first-mapping)
-..* [second-mapping](http://localhost:8080/second-mapping)
-..* [Default mapping](http://localhost:8080/)
-..* [Input mapping](http://localhost:8080/parameter)
-..* [Is it Friday](http://localhost:8080/is-it-friday)
+..*[Hello World](http://localhost:8080/first-mapping)
+..*[second-mapping](http://localhost:8080/second-mapping)
+..*[Default mapping](http://localhost:8080/)
+..*[Input mapping](http://localhost:8080/parameter)
+..*[Is it Friday](http://localhost:8080/is-it-friday)
 
 
 
