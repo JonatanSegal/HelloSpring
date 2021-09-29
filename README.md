@@ -11,16 +11,16 @@ Before you begin, ensure you have met the following requirements:
 To use HelloSpring, follow these steps:
 
 * Open and run HelloSpringApplication.java
-* Checkout 1 of the 5 endpoints
-..*[Hello World](http://localhost:8080/first-mapping)
+* Checkout 1 of the 5 endpoints:
+...[Hello World](http://localhost:8080/first-mapping)
 
-..*[second-mapping](http://localhost:8080/second-mapping)
+...[second-mapping](http://localhost:8080/second-mapping)
 
-..*[Default mapping](http://localhost:8080/)
+...[Default mapping](http://localhost:8080/)
 
-..*[Input mapping](http://localhost:8080/parameter)
+...[Input mapping](http://localhost:8080/parameter)
 
-..*[Is it Friday](http://localhost:8080/is-it-friday)
+...[Is it Friday](http://localhost:8080/is-it-friday)
 
 
 
